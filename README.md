@@ -8,7 +8,8 @@ ___
 ___
 * Every user is able to view catalog.
 * Animal page for an additional info about animal. 
-* Added Pagination for better experience.  
+* Added Pagination for better experience. 
+* 2-factor authentication using email push messages.
 * Registration and authorisation.  
 * Registered clients have their profile page.
 * Registered clients can submit documents.  
